@@ -1,7 +1,8 @@
 # CvLib
 
-##The Project:
-this project is a project for graduation and imporve my engineering ablities in Mechine learning.
+A plug-in face detect  project, still a idea 
+## The Project:
+this t is a project for graduation and imporve my engineering ablities in Machine learning.
 
 The project contains a compeletely pipeline for face recognize,face landmark and face matching.
 
@@ -14,5 +15,6 @@ target 2: using Dlib to finish face landmark
 target 3: using K_means or DT algorithm to clustering
 
 
-##About License
+## About License
 I don't care about somebody will copy or sell my work if it's has been done.I code this for everyone
+
