@@ -1,6 +1,5 @@
 # CvLib
-
-A plug-in face detect  project, still a idea 
+A plug-in face detect  project, still a idea
 ## The Project:
 this t is a project for graduation and imporve my engineering ablities in Machine learning.
 
